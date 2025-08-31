@@ -18,14 +18,18 @@ PortPeek delivers instant insights right at your fingertips, allowing you to spo
 
 ## Installation
 
-### One-Click Installer (Recommended)
+### 🚀 Quick Start (Fastest Method)
 
-1. Download `PortPeek-Installer.dmg`
-2. Double-click to mount the disk image
-3. Double-click "Install PortPeek.command"
-4. Follow the installation prompts
+**Ready to use immediately!** Download the pre-built installer:
 
-That's it! The installer handles everything automatically. **No special permissions required** - PortPeek v2.0 works immediately after installation.
+1. **Download** [`PortPeek-Installer.dmg`](PortPeek-Installer.dmg) from this repository
+2. **Double-click** to mount the disk image
+3. **Double-click** "Install PortPeek.command"
+4. **Done!** PortPeek appears in your menu bar
+
+⚡ **No compilation, no dependencies, no permissions required** - just download and run!
+
+### Alternative: Build from Source
 
 ### For Developers
 

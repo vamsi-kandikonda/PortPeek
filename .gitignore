@@ -60,8 +60,10 @@ Temporary Items
 
 # Build artifacts
 PortPeek.app/
-*.dmg
 PortPeek-OneClick-Installer/
+
+# Keep the distribution DMG
+!PortPeek-Installer.dmg
 
 # Logs
 *.log
